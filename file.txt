@@ -1,2 +1,2 @@
 country: Australia
-city: melbourne
+city: perth
