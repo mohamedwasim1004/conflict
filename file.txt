@@ -1,3 +1,3 @@
 country: Australia
-city : sydney
+city : none
 
